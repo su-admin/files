@@ -1,4 +1,4 @@
 # Py packages
-  Packages that I have coded using Pythin 3.
+  Packages that I have coded using Python 3.
   
 
